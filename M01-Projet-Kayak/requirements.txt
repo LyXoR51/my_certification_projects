@@ -1,0 +1,12 @@
+ipykernel
+pandas
+sqlalchemy
+requests
+plotly
+boto3
+os
+dotenv
+datetime
+time
+logging
+json
