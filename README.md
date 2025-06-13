@@ -1,8 +1,15 @@
+(building)
+
+
 # my_certification_projects
 Jedha fullstack DataScience certification 
 
+
+
 # access key
-The library Dotenv is used in all my notebooks, but feel free to change it for your own configuration
+I have used the Dotenv library in all of my notebooks, but you are free to change it for your own configuration
+
+
 
 
 # M01-Projet-Kayak:
@@ -10,6 +17,9 @@ For this project, we need several keys:
 - OPENWEATHERMAP_API_KEY, available for free on : https://openweathermap.org/api
 - AWS_ACCESS_KEY_ID
 - AWS_SECRET_ACCESS_KEY
+
+
+
 
 
 # M05-Projet-GetAround:
